@@ -1,0 +1,9 @@
+*.swp
+/nbproject/
+/.settings
+/vendor
+/logs
+/.buildpath
+/.project
+/.externalToolBuilders
+/.idea
